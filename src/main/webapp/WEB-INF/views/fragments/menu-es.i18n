@@ -18,6 +18,7 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
+master.menu.anonymous.favourite-link-alvhidrod = 77873483Z: Hidalgo Rodríguez, Álvaro
 master.menu.anonymous.favourite-link = Enlace favorito
 master.menu.consumer.favourite-link.ivasansan1 = 30265951k, Sánchez San José, Iván
 

@@ -19,6 +19,7 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-alvhidrod" action="https://www.games-workshop.com/es-ES/Warhammer-40-000"/>
 			<acme:menu-suboption code="master.menu.consumer.favourite-link.ivasansan1" action="https://www.pccomponentes.com/?gclid=Cj0KCQiAorKfBhC0ARIsAHDzslt99E547u_P3Y0T83IpZVmEN9UchYjv1DXHDp9Uj7M-2ZpSh_JSs4UaAiLSEALw_wcB"/>
 		</acme:menu-option>
 
