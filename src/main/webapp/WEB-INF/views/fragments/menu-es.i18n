@@ -18,9 +18,9 @@ master.menu.sign-out = Salir
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anónimo
-master.menu.anonymous.favourite-link-alvhidrod = 77873483Z: Hidalgo Rodríguez, Álvaro
-master.menu.consumer.favourite-link.ivasansan1 = 30265951k: Sánchez San José, Iván
-master.menu.consumer.favourite-link.albertoperleo = 53354301M: Perea León, Alberto
+master.menu.anonymous.favourite-link.laurolmer = 29551310J: Roldán Merat, Laura 
+master.menu.anonymous.favourite-link.alvhidrod = 77873483Z: Hidalgo Rodríguez, Álvaro
+master.menu.anonymous.favourite-link.ivasansan1 = 30265951k: Sánchez San José, Iván
 
 # master.menu.administrator ###################################################
 
