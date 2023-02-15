@@ -18,7 +18,8 @@ master.menu.sign-out = Sign out
 # master.menu.anonymous #######################################################
 
 master.menu.anonymous = Anonymous
-master.menu.anonymous.favourite-link = 77873483Z: Hidalgo Rodríguez, Álvaro
+master.menu.anonymous.favourite-link-alvhidrod = 77873483Z: Hidalgo Rodríguez, Álvaro
+master.menu.anonymous.favourite-link.albertoperleo = 53354301M: Perea León, Alberto
 
 # master.menu.administrator ###################################################
 
