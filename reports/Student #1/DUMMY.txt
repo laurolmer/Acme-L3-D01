@@ -1,0 +1,4 @@
+Este archivo está aquí únicamente para que GitHub no elimine esta carpeta vacía al subir el proyecto al repositorio. 
+Una vez hayas introducido información dentro de la carpeta, puedes borrar el archivo.
+
+Gracias.
