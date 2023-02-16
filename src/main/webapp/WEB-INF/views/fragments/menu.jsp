@@ -23,6 +23,7 @@
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.alvhidrod" action="https://www.games-workshop.com/es-ES/Warhammer-40-000"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.ivasansan1" action="https://www.pccomponentes.com/?gclid=Cj0KCQiAorKfBhC0ARIsAHDzslt99E547u_P3Y0T83IpZVmEN9UchYjv1DXHDp9Uj7M-2ZpSh_JSs4UaAiLSEALw_wcB"/>
 			<acme:menu-suboption code="master.menu.anonymous.favourite-link.albertoperleo" action="https://www.youtube.com/watch?v=eVrYbKBrI7o"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link.danguepre" action="https://www.youtube.com/watch?v=5OGecDW-5Xs"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
